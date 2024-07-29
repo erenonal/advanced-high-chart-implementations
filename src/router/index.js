@@ -20,7 +20,6 @@ const routes = [
     path: "/dashboard",
     name: "Dashboard",
     component: Dashboard,
-    // meta: { requiresAuth: true }  // Bu kısımı kaldırıyoruz, çünkü Dashboard bileşeninde kontrol yapacağız
   },
 ];
 
