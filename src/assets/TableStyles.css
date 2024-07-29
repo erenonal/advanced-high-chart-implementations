@@ -1,0 +1,6 @@
+.table-striped tbody tr:nth-child(odd) {
+    background-color: rgba(5, 10, 97, 0.283); 
+  }
+.table-striped tbody tr:nth-child(even) {
+    background-color: transparent; 
+  }
